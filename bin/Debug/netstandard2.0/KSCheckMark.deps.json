@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "KSCheckMark/1.0.0": {
+      "KSCheckMark/1.0.5": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc": "2.0.0",
           "NETStandard.Library": "2.0.0"
@@ -1593,7 +1593,7 @@
     }
   },
   "libraries": {
-    "KSCheckMark/1.0.0": {
+    "KSCheckMark/1.0.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

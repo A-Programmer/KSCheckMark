@@ -7163,7 +7163,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.3",
+    "version": "1.0.5",
     "restore": {
       "projectUniqueName": "G:\\Projects\\Packages\\TagHelperPackages\\KSCheckMark\\KSCheckMark.csproj",
       "projectName": "KSCheckMark",
@@ -7171,6 +7171,7 @@
       "packagesPath": "C:\\Users\\EnSadinUser\\.nuget\\packages\\",
       "outputPath": "G:\\Projects\\Packages\\TagHelperPackages\\KSCheckMark\\obj\\",
       "projectStyle": "PackageReference",
+      "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
@@ -7209,6 +7210,7 @@
           }
         },
         "imports": [
+          "portable-net45+win8+wp8+wpa81",
           "net461"
         ],
         "assetTargetFallback": true,

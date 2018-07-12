@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Razor.TagHelpers;
 namespace KSCheckMark
 {
     [HtmlTargetElement("i", Attributes = CheckMarkValueAttributeName)]
-    public class CheckMarkTagHelper : TagHelper
+    public class CheckMarkedTagHelper : TagHelper
     {
         private const string CheckMarkValueAttributeName = "ks-value";
         private const string CheckedClassValue = "ks-checked-class";
