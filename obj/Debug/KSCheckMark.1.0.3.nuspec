@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>KSCheckMark</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <authors>Kamran Sadin</authors>
     <owners>Kamran Sadin</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -11,7 +11,7 @@
     <description>TagHelper for showing check/unckeck mark for true/false values</description>
     <copyright>Copyright © Sadin 2018</copyright>
     <tags>CheckMark,Checkbox,MVC,Core,ASPNet Core</tags>
-    <repository url="https://github.com/A-Programmer/KSCheckMark" />
+    <repository type="git" url="https://github.com/A-Programmer/KSCheckMark" />
     <dependencies>
       <group targetFramework=".NETStandard2.0">
         <dependency id="Microsoft.AspNetCore.Mvc" version="2.0.0" exclude="Build,Analyzers" />

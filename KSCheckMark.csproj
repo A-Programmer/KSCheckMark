@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>KSCheckMark</PackageId>
     <Authors>Kamran Sadin</Authors>
     <Company>Sadin</Company>
     <AssemblyName>KSCheckMark</AssemblyName>
@@ -10,10 +11,11 @@
     <PackageProjectUrl>https://github.com/A-Programmer/KSCheckMark</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/A-Programmer/KSCheckMark/master/Icon.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/A-Programmer/KSCheckMark</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <PackageTags>CheckMark,Checkbox,MVC,Core,ASPNet Core</PackageTags>
     <Copyright>Copyright © Sadin 2018</Copyright>
     <Description>TagHelper for showing check/unckeck mark for true/false values</Description>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
     <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
