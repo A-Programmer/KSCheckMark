@@ -1,0 +1,9 @@
+G:\Projects\Packages\TagHelperPackages\KSCheckMark\bin\Debug\netstandard2.0\KSCheckMark.deps.json
+G:\Projects\Packages\TagHelperPackages\KSCheckMark\bin\Debug\netstandard2.0\KSCheckMark.dll
+G:\Projects\Packages\TagHelperPackages\KSCheckMark\bin\Debug\netstandard2.0\KSCheckMark.pdb
+G:\Projects\Packages\TagHelperPackages\KSCheckMark\obj\Debug\netstandard2.0\KSCheckMark.csprojResolveAssemblyReference.cache
+G:\Projects\Packages\TagHelperPackages\KSCheckMark\obj\Debug\netstandard2.0\KSCheckMark.csproj.CoreCompileInputs.cache
+G:\Projects\Packages\TagHelperPackages\KSCheckMark\obj\Debug\netstandard2.0\KSCheckMark.AssemblyInfoInputs.cache
+G:\Projects\Packages\TagHelperPackages\KSCheckMark\obj\Debug\netstandard2.0\KSCheckMark.AssemblyInfo.cs
+G:\Projects\Packages\TagHelperPackages\KSCheckMark\obj\Debug\netstandard2.0\KSCheckMark.dll
+G:\Projects\Packages\TagHelperPackages\KSCheckMark\obj\Debug\netstandard2.0\KSCheckMark.pdb
