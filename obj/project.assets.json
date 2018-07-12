@@ -7159,28 +7159,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EnSadinUser\\.nuget\\packages\\": {},
+    "C:\\Users\\Kamran\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\Packages\\TagHelperPackages\\KSCheckMark\\KSCheckMark.csproj",
+      "projectUniqueName": "F:\\Works\\Projects\\MyPackages\\KSTagHelpers\\KSCheckMark\\KSCheckMark.csproj",
       "projectName": "KSCheckMark",
-      "projectPath": "G:\\Projects\\Packages\\TagHelperPackages\\KSCheckMark\\KSCheckMark.csproj",
-      "packagesPath": "C:\\Users\\EnSadinUser\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\Packages\\TagHelperPackages\\KSCheckMark\\obj\\",
+      "projectPath": "F:\\Works\\Projects\\MyPackages\\KSTagHelpers\\KSCheckMark\\KSCheckMark.csproj",
+      "packagesPath": "C:\\Users\\Kamran\\.nuget\\packages\\",
+      "outputPath": "F:\\Works\\Projects\\MyPackages\\KSTagHelpers\\KSCheckMark\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\EnSadinUser\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Kamran\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "F:\\Works\\Projects\\NugetPackages\\KSBankMellat\\KSBankMellat\\bin\\Debug": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -7197,15 +7203,15 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Mvc": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
-          },
-          "Microsoft.AspNetCore.Mvc": {
-            "target": "Package",
-            "version": "2.0.0"
           }
         },
         "imports": [

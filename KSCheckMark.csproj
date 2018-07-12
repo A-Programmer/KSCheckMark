@@ -5,13 +5,21 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Kamran Sadin</Authors>
     <Company>Sadin</Company>
+    <AssemblyName>KSCheckMark</AssemblyName>
+    <AssemblyTitle>KSCheckMark</AssemblyTitle>
     <PackageProjectUrl>https://github.com/A-Programmer/KSCheckMark</PackageProjectUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/A-Programmer/KSCheckMark/master/Icon.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/A-Programmer/KSCheckMark</RepositoryUrl>
     <PackageTags>CheckMark,Checkbox,MVC,Core,ASPNet Core</PackageTags>
     <Copyright>Copyright © Sadin 2018</Copyright>
     <Description>TagHelper for showing check/unckeck mark for true/false values</Description>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
+    <GenerateAssemblyTitleAttribute>false</GenerateAssemblyTitleAttribute>
+    <GenerateAssemblyDescriptionAttribute>false</GenerateAssemblyDescriptionAttribute>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <GenerateAssemblyCopyrightAttribute>false</GenerateAssemblyCopyrightAttribute>
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
 
