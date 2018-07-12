@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Kamran Sadin</Authors>
+    <Company>Sadin</Company>
+    <PackageProjectUrl>https://github.com/A-Programmer/KSCheckMark</PackageProjectUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/A-Programmer/KSBankMellat/master/KSCheckMark/Icon.jpg</PackageIconUrl>
+    <RepositoryUrl>https://github.com/A-Programmer/KSCheckMark</RepositoryUrl>
+    <PackageTags>CheckMark,Checkbox,MVC,Core,ASPNet Core</PackageTags>
+    <Copyright>Copyright © Sadin 2018</Copyright>
+    <Description>TagHelper for showing check/unckeck mark for true/false values</Description>
+    <Version>1.0.0</Version>
+    <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>
